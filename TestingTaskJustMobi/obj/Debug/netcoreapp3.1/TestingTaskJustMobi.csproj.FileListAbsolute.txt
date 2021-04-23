@@ -11,3 +11,16 @@ C:\Users\sanya\Desktop\warning\Тестовые\RoadTest\TestingTaskJustMobi\Tes
 C:\Users\sanya\Desktop\warning\Тестовые\RoadTest\TestingTaskJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.dll
 C:\Users\sanya\Desktop\warning\Тестовые\RoadTest\TestingTaskJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.pdb
 C:\Users\sanya\Desktop\warning\Тестовые\RoadTest\TestingTaskJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.genruntimeconfig.cache
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\bin\Debug\netcoreapp3.1\TestingTaskJustMobi.exe
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\bin\Debug\netcoreapp3.1\TestingTaskJustMobi.deps.json
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\bin\Debug\netcoreapp3.1\TestingTaskJustMobi.runtimeconfig.json
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\bin\Debug\netcoreapp3.1\TestingTaskJustMobi.runtimeconfig.dev.json
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\bin\Debug\netcoreapp3.1\TestingTaskJustMobi.dll
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\bin\Debug\netcoreapp3.1\TestingTaskJustMobi.pdb
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.csprojAssemblyReference.cache
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.AssemblyInfoInputs.cache
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.AssemblyInfo.cs
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.dll
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.pdb
+C:\Users\sanya\Desktop\warning\Тестовые\TextQuestJustMobi\TestingTaskJustMobi\obj\Debug\netcoreapp3.1\TestingTaskJustMobi.genruntimeconfig.cache

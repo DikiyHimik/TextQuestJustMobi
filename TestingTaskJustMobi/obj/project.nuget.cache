@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7rFm6BdNHXLURPlolECrtAPeU35UBnB57qDWTpdvPa7zvjCBvnUXDzSrtU5S484WzPUYeF1ycOZl/HoUEltTgA==",
+  "dgSpecHash": "tURen0Iq5GEfOvuTcId3gu8IfAJ7G8bCn8iPB2XGPfu52E0oKDv0QjUa7jOXtgfex6Lbo9sfPdQdgz995vMPIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\RoadTest\\TestingTaskJustMobi\\TestingTaskJustMobi\\TestingTaskJustMobi.csproj",
+  "projectFilePath": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\TextQuestJustMobi\\TestingTaskJustMobi\\TestingTaskJustMobi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sanya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],

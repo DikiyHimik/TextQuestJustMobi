@@ -6,7 +6,7 @@ namespace TestingTaskJustMobi
     {
         static void Main()
         {
-            Road road = new Road("Дорога");
+            Location road = new Road("Дорога");
             road.StartActLocation();
         }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\RoadTest\\TestingTaskJustMobi\\TestingTaskJustMobi\\TestingTaskJustMobi.csproj",
+      "projectUniqueName": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\TextQuestJustMobi\\TestingTaskJustMobi\\TestingTaskJustMobi.csproj",
       "projectName": "TestingTaskJustMobi",
-      "projectPath": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\RoadTest\\TestingTaskJustMobi\\TestingTaskJustMobi\\TestingTaskJustMobi.csproj",
+      "projectPath": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\TextQuestJustMobi\\TestingTaskJustMobi\\TestingTaskJustMobi.csproj",
       "packagesPath": "C:\\Users\\sanya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\RoadTest\\TestingTaskJustMobi\\TestingTaskJustMobi\\obj\\",
+      "outputPath": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\TextQuestJustMobi\\TestingTaskJustMobi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
