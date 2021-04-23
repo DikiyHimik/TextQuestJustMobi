@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rFm6BdNHXLURPlolECrtAPeU35UBnB57qDWTpdvPa7zvjCBvnUXDzSrtU5S484WzPUYeF1ycOZl/HoUEltTgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanya\\Desktop\\warning\\Тестовые\\RoadTest\\TestingTaskJustMobi\\TestingTaskJustMobi\\TestingTaskJustMobi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
