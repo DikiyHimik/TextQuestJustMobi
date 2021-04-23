@@ -14,6 +14,7 @@ namespace TestingTaskJustMobi
             VariantsAction = new string[] { "Подойти к бродяге.", "Осмотреть окрестности.", "Покинуть локацию." };
             
             _swagman = new Swagman("Доррегарай");
+
             Player.GoToCharacter += TalkWithCharacter;
         }
 
@@ -22,7 +23,7 @@ namespace TestingTaskJustMobi
             if (_swagman.TryTalk())
             {
                 Exchanger exchanger = new Exchanger();
-                exchanger.TransferItem(_swagman, Player);
+                exchanger.TransferInventory(_swagman, Player);
             }
         }
     }
